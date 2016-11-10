@@ -1,0 +1,50 @@
+Sample Utterances
+CharIntent character is {Char}
+CharIntent letter is {Char}
+CharIntent {Char}
+CharIntent letter {Char}
+CharIntent character {Char} 
+CharIntent is it {Char}
+CharIntent try {Char}
+
+AMAZON.StartOverIntent start game
+AMAZON.StartOverIntent new game
+AMAZON.StartOverIntent start
+AMAZON.StartOverIntent start new game
+
+DontKnowIntent i don't know
+DontKnowIntent don't know
+DontKnowIntent skip
+DontKnowIntent i don't know that
+DontKnowIntent who knows
+DontKnowIntent i don't know this question
+DontKnowIntent i don't know that one
+DontKnowIntent dunno
+
+Type LIST_OF_CHAR
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
